@@ -1,4 +1,10 @@
+
 .nav{
     background-color: pink;
     padding: 20px;
+}
+.content{
+    background-color: gainsboro;
+    height: 100px;
+
 }
